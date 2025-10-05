@@ -88,9 +88,6 @@ dmypy.json
 *~
 .DS_Store
 
-# Project specific - outputs directory for generated images
-outputs/
-
 # Testing
 .tox/
 .coverage
